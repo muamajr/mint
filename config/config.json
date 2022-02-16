@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x2112e99990A5cDc48a6224757aFa2772093Ff209",
+  "SCAN_LINK": "https://polygonscan.com/token/0x2112e99990a5cdc48a6224757afa2772093ff209",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "MATIC",
+    "ID": 137
+  },
+  "NFT_NAME": "Monsters Inside Co",
+  "SYMBOL": "MINCO",
+  "MAX_SUPPLY": 6666,
+  "WEI_COST": 30000000000000000000,
+  "DISPLAY_COST": 1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/monsters-inside-co",
+  "SHOW_BACKGROUND": true
+}
